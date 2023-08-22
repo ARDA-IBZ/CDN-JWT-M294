@@ -62,7 +62,7 @@ CORS ist nur dann relevant, wenn eine andere Domain auf Ressourcen auf meiner Do
 
 ### Beispiel wie man CORS einbinden kann
 
-[CORS-Beispiel](CORS/CORSE-example.md)
+[CORS-Beispiel](CORS/CORS-example.md)
 
 ## 4. Application Programming Interface (API)
 
